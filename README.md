@@ -1,2 +1,1 @@
-# helloWorld
-first git
+# Project Ionic
